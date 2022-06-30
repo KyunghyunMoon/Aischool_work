@@ -1,0 +1,29 @@
+html{
+    padding-top: 30px;
+}
+h1{
+    color: white;
+    border: 3px solid #ef9101;
+    background-color: #ffe600;
+    border-radius: 0.5em;
+    width: 150px;
+    text-align: center;
+    font-weight: bold; 
+    padding: auto;
+    display: block;
+    margin: auto;  
+}
+
+
+body{
+    background-image: URL('OT.jpg');
+    background-size: cover;
+    margin: auto;
+}
+
+.ct{
+    font-weight: bold;
+    margin-top: 70px;
+    color: white;
+    text-align: center;
+}

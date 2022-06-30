@@ -1,0 +1,50 @@
+body{
+    color: white;
+    background-image: url('OT.jpg');
+    background-size:cover;
+    padding-top: 100px;
+    
+    }
+h1{
+    color: white; 
+    padding-bottom: 70px;  
+    font-size: 70px;
+}
+
+div{
+    text-align: center;
+}
+
+p{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+}
+#gg{
+    /* margin: 0 auto; */
+    /* padding-left: 30px;
+    padding-right: 30px; */
+    position: relative;
+    transition-duration: 0.5s;
+    }
+#gg2{
+    /* margin: 0 auto; */
+    /* padding-left: 30px;
+    padding-right: 30px; */
+    position: relative;
+    transition-duration: 0.5s;
+    }
+
+
+#gg:hover{
+    transform: scale(1.1);
+    box-shadow: 7px 7px 7px black;
+    transition-duration: 0.5s;
+    }
+    
+#gg2:hover{
+    transform: scale(1.1);
+        box-shadow: 7px 7px 7px black;
+        transition-duration: 0.5s;
+    }
+
